@@ -1,0 +1,82 @@
+{
+  "inventory_list": [
+    {
+      "appId": 730,
+      "contextId": 2,
+      "tradableOnly": true,
+      "title": "Counter Strike 2"
+    },
+    {
+      "appId": 440,
+      "contextId": 2,
+      "tradableOnly": true,
+      "title": "Team Fortress 2"
+    },
+    {
+      "appId": 570,
+      "contextId": 2,
+      "tradableOnly": true,
+      "title": "Dota 2"
+    },
+    {
+      "appId": 578080,
+      "contextId": 2,
+      "tradableOnly": true,
+      "title": "PUBG"
+    },
+    {
+      "appId": 274940,
+      "contextId": 2,
+      "tradableOnly": true,
+      "title": "Depth"
+    },
+    {
+      "appId": 218620,
+      "contextId": 2,
+      "tradableOnly": true,
+      "title": "Payday 2"
+    },
+    {
+      "appId": 252490,
+      "contextId": 2,
+      "tradableOnly": true,
+      "title": "Rust"
+    },
+    {
+      "appId": 304930,
+      "contextId": 2,
+      "tradableOnly": true,
+      "title": "Unturned"
+    },
+    {
+      "appId": 3231090,
+      "contextId": 2,
+      "tradableOnly": true,
+      "title": "Amarillo's Butt Slapper"
+    },
+    {
+      "appId": 753,
+      "contextId": 6,
+      "tradableOnly": true,
+      "title": "Steam Community"
+    }
+  ],
+  "inventory_delay": 3000,
+  "market_history_delay": 3000,
+  "default_reports_folder": "reports",
+  "excel_style": {
+    "autoFitColumns": true,
+    "dataStyle": {
+      "backgroundColor": "black",
+      "textColor": "white",
+      "horizontalAlign": "left"
+    },
+    "headerStyle": {
+      "backgroundColor": "black",
+      "textColor": "white",
+      "bold": true,
+      "fontSize": 12,
+      "horizontalAlign": "left"
+    }
+  }
+}

@@ -1,3 +1,12 @@
+/test
+/test2
+/reports
+/accounts.json
+*.sqlite
+*.db
+/test.json
+main.js
+
 # Logs
 logs
 *.log
