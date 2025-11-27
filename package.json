@@ -1,6 +1,6 @@
 {
   "name": "easteam",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Professional Steam market analytics and inventory management tool with advanced ROI tracking, transaction analysis, and automated Excel reporting",
   "main": "index.js",
   "type": "module",

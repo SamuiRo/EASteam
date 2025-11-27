@@ -130,7 +130,7 @@ npm run account:details
 ```bash
 npm start
 # or
-node main.js
+node index.js
 ```
 
 The application will display all available accounts and prompt you to select one.
@@ -138,10 +138,10 @@ The application will display all available accounts and prompt you to select one
 #### Direct Account Execution
 
 ```bash
-node main.js <username>
+node index.js <username>
 
 # Example:
-node main.js mysteamaccount
+node index.js mysteamaccount
 ```
 
 ### Workflow
@@ -305,9 +305,9 @@ EOF
 npm run account:import
 
 # Run for specific account
-node main.js trader1
-node main.js trader2
-node main.js trader3
+node index.js trader1
+node index.js trader2
+node index.js trader3
 ```
 
 ## ⚠️ Important Notes
